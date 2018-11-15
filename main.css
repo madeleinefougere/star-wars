@@ -1,0 +1,35 @@
+*{
+	font-family: Roboto;
+}
+.nav-bar{
+	width: 100%;
+	background-color: rgb(239,188,68);
+	position: fixed;
+	padding-left: 1.04166666%;
+}
+.nav-bar h1{
+	line-height: 1;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+.nav-bar p{
+	margin-top:0px;
+	margin-bottom: 20px;
+}
+
+main{
+	padding-top: 100px;
+}
+
+.content-box{
+	border: 1px solid lightgray;
+}
+
+img{
+	width: 100%;
+}
+
+.content-box h3, .content-box p{
+	margin: 20px;
+}
+
